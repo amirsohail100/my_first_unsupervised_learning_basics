@@ -74,3 +74,8 @@ The codebases contained within this directory are written completely in Python a
 ---
 
 💡 _This repository is continuously updated as I explore more advanced clustering techniques, deep clustering, and generative frameworks._
+
+```bash
+git clone [https://github.com/amirsohail100/my_first_unsupervised_learning_basics.git](https://github.com/amirsohail100/my_first_unsupervised_learning_basics.git)
+cd my_first_unsupervised_learning_basics
+```
